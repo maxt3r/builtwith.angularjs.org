@@ -3580,6 +3580,23 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "Jitbit Helpdesk",
+      "thumb": "jitbithelpdesk/thumb.png",
+      "desc": "A mobile companion app (iOS and Android) for Jitbit Helpdesk.",
+      "url": "https://www.jitbit.com/web-helpdesk/",
+      "submitter": "maxt3r",
+      "submissionDate": "2014-11-10",
+      "tags": [
+        "Business", 
+        "Helpdesk",
+        "Productivity",
+        "No jQuery",
+        "Animations", 
+        "Local Storage", 
+        "Production"
+      ]
     }
 
   ]
